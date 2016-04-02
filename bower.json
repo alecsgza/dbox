@@ -4,7 +4,7 @@
     "Alecs Garza <alecs.garza@gmail.com>"
   ],
   "description": "DataBox - collect and import, explore, visualize & publish your data",
-  "main": "main.js",
+  "main": "dbox.js",
   "moduleType": [],
   "keywords": [
     "data",
