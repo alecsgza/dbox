@@ -1,0 +1,23 @@
+{
+  "name": "dbox",
+  "authors": [
+    "Alecs Garza <alecs.garza@gmail.com>"
+  ],
+  "description": "DataBox - collect and import, explore, visualize & publish your data",
+  "main": "main.js",
+  "moduleType": [],
+  "keywords": [
+    "data",
+    "visualization",
+    "d3"
+  ],
+  "license": "MIT",
+  "homepage": "http://codepots.org",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
